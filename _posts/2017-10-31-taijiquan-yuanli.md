@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(GitHub-Flavored) Markdown Editor"
+title: "陈小旺太极拳原理"
 categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
