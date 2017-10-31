@@ -5,7 +5,7 @@ categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
 ![alt text](/images/taiji.gif "Tai Ji")
-
+... you can [get the PDF]({{ "/assets/quanqiu.pdf" | absolute_url }}) directly.
 目录:
 
  1. 太极拳原理
