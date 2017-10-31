@@ -4,7 +4,7 @@ title: "陈小旺太极拳原理"
 categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
-![alt text](/public/images/taiji.gif "Tai Ji")
+![alt text](/images/taiji.gif "Tai Ji")
 
 目录:
 
