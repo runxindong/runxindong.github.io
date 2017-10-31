@@ -4,7 +4,7 @@ title: "陈小旺太极拳原理"
 categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
-![alt text](/public/images/wukong.png "Wu kong")
+![alt text](/public/images/taiji.gif "Tai Ji")
 
 目录:
 
@@ -17,7 +17,6 @@ categories: "kong-fu"
  7. 何谓双重
 
 ### 1.太极拳原理
----
 
 以[丹田](https://baike.baidu.com/item/%E4%B8%B9%E7%94%B0/304837)为核心，一动全动，节节贯穿，一气贯通。
 
