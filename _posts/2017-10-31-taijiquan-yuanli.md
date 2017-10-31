@@ -4,7 +4,8 @@ title: "陈小旺太极拳原理"
 categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](/public/images/wukong.png "Wu kong")
 目录:
 
  1. 太极拳原理
@@ -17,7 +18,7 @@ categories: "kong-fu"
 
 ### 1.太极拳原理
 
-	以丹田为核心，一动全动，节节贯穿，一气贯通 This is [on GitHub](https://github.com/jbt/markdown-editor) so let。
+	以丹田为核心，一动全动，节节贯穿，一气贯通。
 
 虚领顶劲，沉肩坠肘，含胸塌腰等动作要求都是为了支撑丹田这个核心。
 
