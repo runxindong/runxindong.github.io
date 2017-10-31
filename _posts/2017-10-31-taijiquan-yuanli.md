@@ -4,8 +4,8 @@ title: "陈小旺太极拳原理"
 categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![alt text](/public/images/wukong.png "Wu kong")
+
 目录:
 
  1. 太极拳原理
@@ -24,33 +24,26 @@ categories: "kong-fu"
 
 
 ### 2.太极拳三种运动形式
+
 * 丹田左右旋转
 * 丹田前后旋转
 * 丹田前后左右旋转
+
 ### 3.如何站桩
-Look, a list!
 
- * foo
- * bar
- * baz
+动作要求：
+  1.耳听背后有利于心理平衡，气沉丹田
+  2.松肩沉肘等动作都是为了贯通、支撑丹田，形成丹田核心
+  3.不松不紧，松到一气贯通，节节贯穿正好
+  4.丹田核心形成的标准，自我感觉丹田充实饱满，胸部轻松，脚底生根
 
-And here's some code! :+1:
+### 5.中定桩
+任何一定开合节点都可以中定桩。
 
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
+### 6.缠丝劲与太极图的关系
+不丢不顶，丢和顶都会产生误差，会减少内气的流量，一遍一遍练拳是为了缩小误差，逐步增加
+内气。
 
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
-
-
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
-
-### Stuff used to make this:
-
- * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
- * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
- * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+### 7.何谓双重
+“数年成功，不能化劲，双重之病言耳”
+双重是指身体卡住壳，气阻滞运行不畅。
