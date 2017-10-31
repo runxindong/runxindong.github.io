@@ -5,7 +5,6 @@ categories: "kong-fu"
 ---
 # 陈小旺太极拳**原理**
 ![alt text](/images/taiji.gif "Tai Ji")
-... [get the PDF]({{ "/assets/quanqiu.pdf" }})
 
  1. 太极拳原理
  2. 太极拳的三种运动形式
