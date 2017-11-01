@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "陈小旺太极拳原理"
-categories: "kong-fu"
+categories: "kongfu"
 ---
 # 陈小旺太极拳**原理**
 ![alt text](/images/taiji.gif "Tai Ji")
