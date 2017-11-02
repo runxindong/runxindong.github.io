@@ -5,6 +5,7 @@ categories: "kongfu"
 ---
 	以丹田为核心，一动全动，节节贯穿，一气贯通。
 
+
 ![alt text](/images/taiji.gif "Tai Ji")
 
 ### 1.太极拳原理
