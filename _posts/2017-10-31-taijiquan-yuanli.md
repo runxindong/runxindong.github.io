@@ -3,16 +3,9 @@ layout: post
 title: "陈小旺太极拳原理"
 categories: "kongfu"
 ---
-# 陈小旺太极拳**原理**
-![alt text](/images/taiji.gif "Tai Ji")
+	以丹田为核心，一动全动，节节贯穿，一气贯通。
 
- 1. 太极拳原理
- 2. 太极拳的三种运动形式
- 3. 如何站桩
- 4. 全身各部位与丹田的关系
- 5. 何谓中定桩
- 6. 缠丝劲与太极图的关系
- 7. 何谓双重
+![alt text](/images/taiji.gif "Tai Ji")
 
 ### 1.太极拳原理
 
