@@ -7,5 +7,5 @@ categories: "kongfu"
 
 中华儿女多奇志，不爱红装爱武装。
 
-![alt text](/images/luojiashan.jpg "珞珈曙光")
+![珞珈曙光](/images/luojiashan.JPG "珞珈曙光")
 
