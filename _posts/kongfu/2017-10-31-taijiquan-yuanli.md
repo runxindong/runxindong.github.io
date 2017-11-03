@@ -2,6 +2,7 @@
 layout: post
 title: "陈小旺太极拳原理"
 categories: "kongfu"
+permalink: /:title.html
 ---
 	以丹田为核心，一动全动，节节贯穿，一气贯通。
 
