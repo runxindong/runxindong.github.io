@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Files</h1>
+  <ul class="post-list">
+    {% for file in site.static_files %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ file.path | prepend: site.baseurl }}">{{ file.name }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
