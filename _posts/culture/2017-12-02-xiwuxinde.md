@@ -4,7 +4,7 @@ title: "习太极拳心得"
 categories: "culture"
 permalink: /:title.html
 ---
-	“古之聪明睿知神武而不杀者夫.”——《周易·系辞上》
+	“古之聪明睿知，神武而不杀者夫.”——《周易·系辞上》
 
 <center>前言</center>
 
